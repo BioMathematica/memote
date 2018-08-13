@@ -7,6 +7,8 @@ Next Release
 0.8.5 (2018-08-20)
 ------------------
 * Unpin cobrapy dependency and set it to >=0.13.2
+* Change every usage of SBO key to lower case to confrom to the identifiers.org 
+  namespace for the Systems Biology Ontolgy
 
 0.8.4 (2018-07-18)
 ------------------
